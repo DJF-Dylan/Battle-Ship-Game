@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Validation()
+comment1.params=name\ minLength\ maxLength
+comment1.target=boolean\ checkNameLength(java.lang.String,\ int,\ int)
+comment2.params=check\ str
+comment2.target=boolean\ isNumeric(java.lang.String,\ java.lang.String)
+comment3.params=inputstr\ minLength\ maxLength\ str
+comment3.target=boolean\ numberRange(java.lang.String,\ int,\ int,\ java.lang.String)
+numComments=4

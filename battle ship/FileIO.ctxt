@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=FileIO()
+comment1.params=name
+comment1.target=FileIO(java.lang.String)
+comment2.params=name
+comment2.target=java.lang.String[]\ getFile(java.lang.String)
+comment3.params=
+comment3.target=java.lang.String\ getFileName()
+comment4.params=name\ message
+comment4.target=void\ setFile(java.lang.String,\ java.lang.String)
+comment5.params=name
+comment5.target=void\ setFileName(java.lang.String)
+numComments=6

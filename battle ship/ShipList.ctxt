@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.params=
+comment0.target=ShipList()
+comment1.params=initialCapacity
+comment1.target=ShipList(int)
+comment10.params=newShips
+comment10.target=void\ setShip(java.util.ArrayList)
+comment2.params=shipName\ xPos\ yPos\ noOfHitsMade\ noOfHitsNeeded
+comment2.target=void\ addShip(java.lang.String,\ int,\ int,\ int,\ int)
+comment3.params=x\ y
+comment3.target=boolean\ attack(int,\ int)
+comment4.params=xPos\ yPos
+comment4.target=boolean\ checkPos(int,\ int)
+comment5.params=
+comment5.target=int\ countScore()
+comment6.params=x\ y
+comment6.target=Ship\ getShip(int,\ int)
+comment7.params=
+comment7.target=java.util.ArrayList\ getShipList()
+comment8.params=
+comment8.target=boolean\ ifShipDistoryed()
+comment9.params=xPos\ yPos
+comment9.target=java.lang.String\ printShipState(int,\ int)
+numComments=11
